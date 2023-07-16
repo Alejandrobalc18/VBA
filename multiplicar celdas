@@ -1,0 +1,4 @@
+Sub ejemplo()
+Range("b4") = Range("b2") * Range("B3")
+
+End Sub
